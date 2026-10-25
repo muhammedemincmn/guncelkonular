@@ -6,6 +6,14 @@
 
 [← Ana sayfa](../README.md) · [Önceki](../laboratuvar-2/README.md) · [Sonraki →](../laboratuvar-4/README.md)
 
+## Doldurulmuş orijinal föy
+
+**[Laboratuvar 3 PDF’sini aç / indir](Laboratuvar-3-Doldurulmus-Foy.pdf)**
+
+Orijinal PaketPro 3000 föyünün basılı metinleri ve şemaları korunmuş; boş alanlara **AYSPAK-TF30** için cevaplar eklenmiştir. Emin Çimen / 235541088 bilgileri sayfada yer alır. Orijinal sayfa numarası korunmuştur. Aşağıdaki açıklamalar PDF cevaplarının ayrıntılı sürümüdür.
+
+![Laboratuvar 3 doldurulmuş föy önizlemesi](Foy-Onizleme.png)
+
 > Bu kayıtlar V1–V4 ve V6 eğitim senaryolarının, hedef önlemler uygulanmadan önceki değerlendirmesidir. Gerçek TF30'da saldırı, açıklık veya yaralanma gözlemlenmemiştir. Fiziksel sonuca ulaşmak için gereken emniyet başarısızlığı her senaryoda ayrıca belirtilmiştir.
 
 ## Puanlama yöntemi

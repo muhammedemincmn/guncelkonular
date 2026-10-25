@@ -6,6 +6,14 @@
 
 [← Ana sayfa](../README.md) · [Önceki](../laboratuvar-1/README.md) · [Sonraki →](../laboratuvar-3/README.md)
 
+## Doldurulmuş orijinal föy
+
+**[Laboratuvar 2 PDF’sini aç / indir](Laboratuvar-2-Doldurulmus-Foy.pdf)**
+
+Orijinal PaketPro 3000 föyünün basılı metinleri ve şemaları korunmuş; boş alanlara **AYSPAK-TF30** için cevaplar eklenmiştir. Emin Çimen / 235541088 bilgileri sayfada yer alır. Orijinal sayfa numarası korunmuştur. Aşağıdaki açıklamalar PDF cevaplarının ayrıntılı sürümüdür.
+
+![Laboratuvar 2 doldurulmuş föy önizlemesi](Foy-Onizleme.png)
+
 > Bölgeler benzer risk ve güvenlik ihtiyacına göre ayrılmıştır. Aşağıdaki yapı V3–V5 kapsamında öneridir; mevcut fabrika ağı değildir. Bölge ve conduit yaklaşımı için [IEC özeti](https://syc-se.iec.ch/deliveries/cybersecurity-guidelines/security-standards-and-best-practices/iec-62443/) ve [NIST OT rehberi](https://csrc.nist.gov/pubs/sp/800/82/r3/final) temel alınmıştır.
 
 ## Görev A1 · Hangi varlıklar aynı bölgede?

@@ -6,6 +6,14 @@
 
 [← Ana sayfa](../README.md) · [Önceki](../laboratuvar-3/README.md) · [Kaynaklar ve varsayımlar](../kaynaklar/makine-ve-varsayimlar.md)
 
+## Doldurulmuş orijinal föy
+
+**[Laboratuvar 4 PDF’sini aç / indir](Laboratuvar-4-Doldurulmus-Foy.pdf)**
+
+Orijinal PaketPro 3000 föyünün basılı metinleri ve şemaları korunmuş; boş alanlara **AYSPAK-TF30** için cevaplar eklenmiştir. Emin Çimen / 235541088 bilgileri sayfada yer alır. Orijinal sayfa numarası korunmuştur. Aşağıdaki açıklamalar PDF cevaplarının ayrıntılı sürümüdür.
+
+![Laboratuvar 4 doldurulmuş föy önizlemesi](Foy-Onizleme.png)
+
 > “Mevcut” başlığı föydeki başlangıç durumunu ifade eder. Buradaki mevcut yapı **V4 eğitim varsayımıdır; AYSPAK'ın gerçek ağı veya erişim sistemi hakkında bulgu değildir**. Hedef çizim kavramsaldır. Emniyet köprüsü bölümünde ürün/marka seçmek yerine karşılanacak gereksinimler yazılmıştır.
 
 ## Görev A · Mevcut → hedef

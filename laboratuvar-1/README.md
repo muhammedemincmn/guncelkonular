@@ -6,6 +6,14 @@
 
 [← Ana sayfa](../README.md) · [Ortak varsayımlar ve kaynaklar](../kaynaklar/makine-ve-varsayimlar.md) · [Sonraki laboratuvar →](../laboratuvar-2/README.md)
 
+## Doldurulmuş orijinal föy
+
+**[Laboratuvar 1 PDF’sini aç / indir](Laboratuvar-1-Doldurulmus-Foy.pdf)**
+
+Orijinal PaketPro 3000 föyünün basılı metinleri ve şemaları korunmuş; boş alanlara **AYSPAK-TF30** için cevaplar eklenmiştir. Emin Çimen / 235541088 bilgileri sayfada yer alır. Orijinal sayfa numarası korunmuştur. Aşağıdaki açıklamalar PDF cevaplarının ayrıntılı sürümüdür.
+
+![Laboratuvar 1 doldurulmuş föy önizlemesi](Foy-Onizleme.png)
+
 > Kapsam: Genel föyün sekiz sorusu cevaplanmıştır. Aşağıdaki emniyet zinciri V2 kapsamında önerilen eğitim mimarisidir; gerçek TF30 donanımının tespiti değildir.
 
 ## 1. Bu makinede tehlike nedir? İnsan neyden zarar görür?
