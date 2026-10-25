@@ -16,7 +16,7 @@ Tava tipi kutu kurma makinesi üzerinden emniyet fonksiyonları, endüstriyel a�
 
 ## PDF teslim dosyaları
 
-**[İlk dört laboratuvarın doldurulmuş birleşik PDF’sini aç / indir](output/pdf/AYSPAK-TF30-Laboratuvar-1-2-3-4-Emin-Cimen-235541088.pdf)**
+**[İlk dört laboratuvarın doldurulmuş birleşik PDF’sini aç / indir](Tümü.pdf)**
 
 PaketPro 3000 kaynak PDF’sinin **Laboratuvar 1–2–3–4 sayfaları**, orijinal metinleri ve tasarımı değiştirilmeden doldurulmuştur. Cevaplar özellikle **AYSPAK-TF30** makinesi için yazılmıştır. Her laboratuvar klasöründe ilgili tek sayfalık PDF ve önizlemesi bulunur. Kaynaktaki 2/8–5/8 sayfa numaraları korunmuştur; birleşik teslim dosyası dört sayfadır.
 
