@@ -2,7 +2,7 @@
 
 **Çıktı:** Risk Register · **EP 04 — Risk Assessment**
 
-**Makine:** AYSPAK-TF30 · **Hazırlayan:** Muhammed Emin Cimen · **Tarih:** 25.10.2026
+**Makine:** AYSPAK-TF30 · **Hazırlayan:** Emin Çimen · **Öğrenci numarası:** 235541088 · **Tarih:** 25.10.2026
 
 [← Ana sayfa](../README.md) · [Önceki](../laboratuvar-2/README.md) · [Sonraki →](../laboratuvar-4/README.md)
 

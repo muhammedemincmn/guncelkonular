@@ -6,7 +6,8 @@ Tava tipi kutu kurma makinesi üzerinden emniyet fonksiyonları, endüstriyel a�
 
 | Teslim bilgisi | Açıklama |
 |---|---|
-| Hazırlayan | Muhammed Emin Cimen |
+| Hazırlayan | Emin Çimen |
+| Öğrenci numarası | 235541088 |
 | Tarih | 25 Ekim 2026 |
 | Makine | AYSPAK-TF30 Tava Tipi Kutu Kurma Makinesi |
 | Kapsam | İlk dört laboratuvar; Laboratuvar 5–6–7 kapsam dışıdır |

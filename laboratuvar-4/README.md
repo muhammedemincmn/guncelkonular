@@ -2,7 +2,7 @@
 
 **Çıktı:** Secure Architecture · **EP 02 + EP 06**
 
-**Makine:** AYSPAK-TF30 · **Hazırlayan:** Muhammed Emin Cimen · **Tarih:** 25.10.2026
+**Makine:** AYSPAK-TF30 · **Hazırlayan:** Emin Çimen · **Öğrenci numarası:** 235541088 · **Tarih:** 25.10.2026
 
 [← Ana sayfa](../README.md) · [Önceki](../laboratuvar-3/README.md) · [Kaynaklar ve varsayımlar](../kaynaklar/makine-ve-varsayimlar.md)
 

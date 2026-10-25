@@ -2,7 +2,7 @@
 
 **Çıktı:** Safety Function Map · **EP 03 — Safety Functions**
 
-**Makine:** AYSPAK-TF30 · **Hazırlayan:** Muhammed Emin Cimen · **Tarih:** 25.10.2026
+**Makine:** AYSPAK-TF30 · **Hazırlayan:** Emin Çimen · **Öğrenci numarası:** 235541088 · **Tarih:** 25.10.2026
 
 [← Ana sayfa](../README.md) · [Ortak varsayımlar ve kaynaklar](../kaynaklar/makine-ve-varsayimlar.md) · [Sonraki laboratuvar →](../laboratuvar-2/README.md)
 
