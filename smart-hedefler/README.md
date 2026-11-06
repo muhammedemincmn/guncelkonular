@@ -12,7 +12,8 @@ T0, yetkili ekip tarafından onaylanan plan başlangıcıdır; rapor tarihi otom
 
 ## H1 · TF30 varlık ve sürüm envanteri
 
-**Önerilen sorumlu:** Bakım sorumlusu + üretici teknik desteği  
+**Önerilen sorumlu:** Bakım sorumlusu + üretici teknik desteği
+
 **Dayanak:** W3 + O3 | Laboratuvar 2 ve 5
 
 | Ölçüt | TF30 hedefi |
@@ -25,7 +26,8 @@ T0, yetkili ekip tarafından onaylanan plan başlangıcıdır; rapor tarihi otom
 
 ## H2 · Uzak servis erişim politikasını hazırlamak
 
-**Önerilen sorumlu:** OT/BT sorumlusu + yetkili servis  
+**Önerilen sorumlu:** OT/BT sorumlusu + yetkili servis
+
 **Dayanak:** T1 + O1 | Laboratuvar 2 ve 4
 
 | Ölçüt | TF30 hedefi |
@@ -38,7 +40,8 @@ T0, yetkili ekip tarafından onaylanan plan başlangıcıdır; rapor tarihi otom
 
 ## H3 · Yama ve emniyet değişikliği planı
 
-**Önerilen sorumlu:** Bakım/emniyet yetkilisi + üretici  
+**Önerilen sorumlu:** Bakım/emniyet yetkilisi + üretici
+
 **Dayanak:** W1/W3 + T2 | Laboratuvar 1 ve 5
 
 | Ölçüt | TF30 hedefi |
@@ -51,7 +54,8 @@ T0, yetkili ekip tarafından onaylanan plan başlangıcıdır; rapor tarihi otom
 
 ## H4 · Bir masa başı olay tatbikatı
 
-**Önerilen sorumlu:** Üretim + bakım/emniyet + OT/BT rolleri  
+**Önerilen sorumlu:** Üretim + bakım/emniyet + OT/BT rolleri
+
 **Dayanak:** T1 + W1 | Laboratuvar 6
 
 | Ölçüt | TF30 hedefi |
@@ -64,7 +68,8 @@ T0, yetkili ekip tarafından onaylanan plan başlangıcıdır; rapor tarihi otom
 
 ## H5 · YZ kalite kontrolü doğrulama tasarımı
 
-**Önerilen sorumlu:** Kalite sorumlusu + otomasyon/emniyet rolleri  
+**Önerilen sorumlu:** Kalite sorumlusu + otomasyon/emniyet rolleri
+
 **Dayanak:** O2 + T3 | Laboratuvar 7
 
 | Ölçüt | TF30 hedefi |
