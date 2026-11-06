@@ -10,7 +10,7 @@ Tava tipi kutu kurma makinesi üzerinden emniyet fonksiyonları, endüstriyel a�
 | Öğrenci numarası | 235541088 |
 | İlk teslim / güncelleme | 25 Ekim 2026 / 6 Kasım 2026 |
 | Makine | AYSPAK-TF30 Tava Tipi Kutu Kurma Makinesi |
-| Kapsam | Laboratuvar 1–7; ilk dört sayfa korunmuş, 5–6–7 eklenmiştir |
+| Kapsam | Laboratuvar 1–7 ve ek SWOT / SMART çalışması |
 | Yöntem | Üreticinin açık bilgileri + açıkça belirtilmiş eğitim varsayımları |
 | Grup bilgisi | Bireysel çalışma olarak düzenlenmiştir; ders grubu bilgisi paylaşılmamıştır |
 
@@ -21,6 +21,20 @@ Tava tipi kutu kurma makinesi üzerinden emniyet fonksiyonları, endüstriyel a�
 PaketPro 3000 kaynak PDF’sinin **Laboratuvar 1–2–3–4–5–6–7 sayfaları**, orijinal metinleri ve tasarımı değiştirilmeden doldurulmuştur. Cevaplar özellikle **AYSPAK-TF30** makinesi için yazılmıştır. Her laboratuvar klasöründe ilgili tek sayfalık PDF ve önizlemesi bulunur. Kaynaktaki 2/8–8/8 sayfa numaraları korunmuştur; birleşik teslim dosyası yedi sayfadır. İlk dört laboratuvarın 25.10.2026 tarihli sayfaları aynen korunmuş; yeni üç sayfa 06.11.2026 tarihiyle doldurulmuştur.
 
 PDF’deki PaketPro senaryo metinleri kaynak föye aittir; TF30 hakkında doğrulanmış bulgu sayılmaz. Bu ayrım cevaplarda belirtilmiştir.
+
+
+## SWOT ve SMART analizi
+
+**[SWOT ve SMART birleşik PDF’sini aç / indir](SWOT-ve-SMART.pdf)**
+
+TF30 için dört başlıkta SWOT değerlendirmesi, beş SMART hedefi ve altı haftalık önerilen yol haritası hazırlanmıştır. Hedefler ilgili laboratuvarlara bağlanmıştır; gerçekleşmiş saha uygulamaları olarak sunulmaz.
+
+| Çalışma | Açıklama | PDF |
+|---|---|---|
+| [SWOT analizi](swot-analizi/README.md) | Güçlü/zayıf yönler, fırsatlar, tehditler ve dört strateji | [SWOT PDF](swot-analizi/SWOT-Analizi.pdf) |
+| [SMART hedefleri](smart-hedefler/README.md) | Beş ölçülebilir hedef, kabul ölçütleri ve yol haritası | [SMART PDF](smart-hedefler/SMART-Hedefleri.pdf) |
+
+Birleşik SWOT/SMART dosyası üç sayfadır. Laboratuvar 1–7 teslimi **Tümü.pdf** dosyasındadır.
 
 ## Doldurulmuş föyler
 
